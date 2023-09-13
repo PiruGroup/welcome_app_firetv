@@ -1,0 +1,15 @@
+<resources>
+    <string name="house_number">219girard</string>
+    <string name="app_name">Welcome to Piru Manors</string>
+    <string name="browse_title">219 Girard Blvd SE</string>
+
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+
+</resources>
